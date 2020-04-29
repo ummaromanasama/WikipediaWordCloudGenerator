@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import wikipedia 
 
 #Request user input
-search = input('Search somthing on Wikipedia: ')
+search = input('Search something on Wikipedia: ')
 
 #Wikipedia search
 def get_wiki(search):
