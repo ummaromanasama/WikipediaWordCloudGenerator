@@ -26,7 +26,6 @@ IT Chapter Two mask: https://cdn.getstickerpack.com/storage/uploads/sticker-pack
 Puppy mask: https://pngimg.com/uploads/dog/dog_PNG50375.png
 Pikachu mask: https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png
 Dora the Explorer mask: https://webstockreview.net/images/clipart-stars-dora-13.png
-Nick mask: https://vignette.wikia.nocookie.net/90scartoons/images/2/27/Nickelodeon_Logo.png/revision/latest?cb=20140216020359
 Dexters Lab mask: https://i.ya-webdesign.com/images/drawing-storyboard-dexters-laboratory-5.png
 Power Puff Girls mask: https://pngimage.net/wp-content/uploads/2018/06/powerpuff-girls-png-2.png
 Chowder mask: https://vignette.wikia.nocookie.net/crossover-nexus/images/3/3f/Chowder-4.png/revision/latest?cb=20190714165006
