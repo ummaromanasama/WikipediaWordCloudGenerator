@@ -32,4 +32,4 @@ Here are some word clouds I generated:
 ![](images/bubbles.png)
 
 * Wikipedia search: Powerpuff Girls
-![](images/Powerpuff Girls.png)
+![](images/powerpuffGirls.png)
