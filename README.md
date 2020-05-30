@@ -1,6 +1,8 @@
 # Wikipedia_Masked_Word_Cloud
 
-Summary: The Wikipedia Word Cloud Generator promts the user to type in somthing they would like to lookup utilizing the Wikipedia library. With the search input, the program pulls up the corresponding Wikipedia page and generates a word cloud in color using the WordCloud library. The word cloud then opens up in a pop-up using matplotlib. You can also add a mask to your word cloud to give it a bit more personality.
+Summary: A word cloud is an image composed of words regarding the particular subject. The words compromised in a word cloud vary in size and thickness corresponding to the quantity of the word appearing. In practice, the more times a specific word appears the larger and bolder the text will appear in the word cloud. With this feature in mind, word clouds are used to present text data to demonstrate the word frequencies in a visual manner.
+
+The components of the Wikipedia Masked Word Cloud consists of utilizing the Wikipedia API to retrieve text data for the word cloud to look at, implementing a mask over the word cloud to give it a shape, and translating the color of an image to the word cloud to give it more personality.
 
 Here are some word clouds I generated:
 
