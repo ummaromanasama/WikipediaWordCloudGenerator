@@ -4,18 +4,18 @@ Summary: The Wikipedia Word Cloud Generator promts the user to type in somthing 
 
 Here are some word clouds I generated:
 
-* Wikipedia search Mickey Mouse
+* Wikipedia search: Mickey Mouse
 ![](images/mickeyMouse.png)
 
-* Wikipedia search Pickachu
+* Wikipedia search: Pickachu
 ![](images/pickachu.png)
 
 * Wikipedia search Puppy
 ![](images/puppy.png)
 
-* Wikipedia search IT Chapter Two
+* Wikipedia search: IT Chapter Two
 ![](images/itChapterTwo.png)
 
-* Wikipedia search Marvel Studio
+* Wikipedia search: Marvel Studio
 ![](images/marvelStudio.png)
 
