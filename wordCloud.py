@@ -30,8 +30,6 @@ Power Puff Girls Buttercup mask:http://www.pngmart.com/files/8/Powerpuff-Girls-P
 Power Puff Girls Bubbles mask: http://www.pngmart.com/files/8/Bubbles-Powerpuff-Girls-PNG-Transparent-Background.png
 Power Puff Girls Blossom mask: http://www.pngmart.com/files/8/Blossom-Powerpuff-Girls-PNG-Transparent-File.png
 Power Puff Girls mask: http://www.pngmart.com/files/2/Powerpuff-Girls-PNG-Clipart.png
-
-Chowder mask: https://vignette.wikia.nocookie.net/crossover-nexus/images/3/3f/Chowder-4.png/revision/latest?cb=20190714165006
 """
 
 #Upload image 
