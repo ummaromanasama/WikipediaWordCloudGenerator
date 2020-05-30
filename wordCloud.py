@@ -19,14 +19,13 @@ def get_wiki(search):
 #Store page data
 data = get_wiki(search)
 
-'''
-Sample mask links
-Marvel mask: https://logos-download.com/wp-content/uploads/2018/07/Marvel_logo_red.png
-Mickey mask: https://i.pinimg.com/originals/22/92/c8/2292c8f0bf0c2e166c3c08e6adf2f014.png
-Penny mask: https://cdn.getstickerpack.com/storage/uploads/sticker-pack/penny-wise/sticker_7.png?71e44a420b56adf1f8e34b49b2374bf0
+""" Samples of word cloud mask
+Marvel Studio mask: https://logos-download.com/wp-content/uploads/2018/07/Marvel_logo_red.png
+Mickey Mouse mask: https://i.pinimg.com/originals/22/92/c8/2292c8f0bf0c2e166c3c08e6adf2f014.png
+IT Chapter Two mask: https://cdn.getstickerpack.com/storage/uploads/sticker-pack/penny-wise/sticker_7.png?71e44a420b56adf1f8e34b49b2374bf0
 Puppy mask: https://pngimg.com/uploads/dog/dog_PNG50375.png
 Pikachu mask: https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png
-'''
+"""
 
 #Upload image 
 mask_link = 'insert image address'
