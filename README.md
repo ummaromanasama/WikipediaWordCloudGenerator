@@ -4,7 +4,7 @@ Summary: A word cloud is an image composed of words regarding the particular sub
 
 The components of the Wikipedia Masked Word Cloud consists of utilizing the Wikipedia API to retrieve text data for the word cloud to look at, implementing a mask over the word cloud to give it a shape, and translating the color of an image to the word cloud to give it more personality.
 
-For more information and step by step guidance on recreating your own word cloud check out: 
+For more information and step by step guidance on creating your own word cloud check out: 
 
 Here are some word clouds I generated:
 
