@@ -25,7 +25,8 @@ Mickey Mouse mask: https://i.pinimg.com/originals/22/92/c8/2292c8f0bf0c2e166c3c0
 IT Chapter Two mask: https://cdn.getstickerpack.com/storage/uploads/sticker-pack/penny-wise/sticker_7.png?71e44a420b56adf1f8e34b49b2374bf0
 Puppy mask: https://pngimg.com/uploads/dog/dog_PNG50375.png
 Pikachu mask: https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png
-Dora the Explorer: https://webstockreview.net/images/clipart-stars-dora-13.png
+Dora the Explorer mask: https://webstockreview.net/images/clipart-stars-dora-13.png
+Nick mask: https://vignette.wikia.nocookie.net/90scartoons/images/2/27/Nickelodeon_Logo.png/revision/latest?cb=20140216020359
 """
 
 #Upload image 
