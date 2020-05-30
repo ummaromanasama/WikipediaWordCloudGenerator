@@ -27,6 +27,7 @@ Puppy mask: https://pngimg.com/uploads/dog/dog_PNG50375.png
 Pikachu mask: https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png
 Dora the Explorer mask: https://webstockreview.net/images/clipart-stars-dora-13.png
 Nick mask: https://vignette.wikia.nocookie.net/90scartoons/images/2/27/Nickelodeon_Logo.png/revision/latest?cb=20140216020359
+Dexters Lab mask: https://i.ya-webdesign.com/images/drawing-storyboard-dexters-laboratory-5.png
 """
 
 #Upload image 
