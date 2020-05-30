@@ -26,6 +26,7 @@ IT Chapter Two mask: https://cdn.getstickerpack.com/storage/uploads/sticker-pack
 Puppy mask: https://pngimg.com/uploads/dog/dog_PNG50375.png
 Pikachu mask: https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png
 Dora the Explorer mask: https://webstockreview.net/images/clipart-stars-dora-13.png
+Power Puff Girls Buttercup mask:http://www.pngmart.com/files/8/Powerpuff-Girls-PNG-Free-Image.png
 Power Puff Girls mask: https://pngimage.net/wp-content/uploads/2018/06/powerpuff-girls-png-2.png
 Power Puff Girls mask: http://www.pngmart.com/files/2/Powerpuff-Girls-PNG-Clipart.png
 Chowder mask: https://vignette.wikia.nocookie.net/crossover-nexus/images/3/3f/Chowder-4.png/revision/latest?cb=20190714165006
