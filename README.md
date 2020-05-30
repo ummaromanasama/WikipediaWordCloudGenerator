@@ -19,3 +19,17 @@ Here are some word clouds I generated:
 * Wikipedia search: Marvel Studio
 ![](images/marvelStudio.png)
 
+* Wikipedia search: Dora the Explorer
+![](images/dora.png)
+
+* Wikipedia search: Powerpuff Girls Blossom
+![](images/blossom.png)
+
+* Wikipedia search: Powerpuff Girls Buttercup
+![](images/buttercup.png)
+
+* Wikipedia search: Powerpuff Girls Bubbles
+![](images/bubbles.png)
+
+* Wikipedia search: Powerpuff Girls
+![](images/Powerpuff Girls.png)
