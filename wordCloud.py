@@ -29,8 +29,8 @@ Dora the Explorer mask: https://webstockreview.net/images/clipart-stars-dora-13.
 Power Puff Girls Buttercup mask:http://www.pngmart.com/files/8/Powerpuff-Girls-PNG-Free-Image.png
 Power Puff Girls Bubbles mask: http://www.pngmart.com/files/8/Bubbles-Powerpuff-Girls-PNG-Transparent-Background.png
 Power Puff Girls Blossom mask: http://www.pngmart.com/files/8/Blossom-Powerpuff-Girls-PNG-Transparent-File.png
-Power Puff Girls mask: https://pngimage.net/wp-content/uploads/2018/06/powerpuff-girls-png-2.png
 Power Puff Girls mask: http://www.pngmart.com/files/2/Powerpuff-Girls-PNG-Clipart.png
+
 Chowder mask: https://vignette.wikia.nocookie.net/crossover-nexus/images/3/3f/Chowder-4.png/revision/latest?cb=20190714165006
 """
 
