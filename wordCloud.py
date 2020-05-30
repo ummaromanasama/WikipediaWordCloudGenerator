@@ -19,7 +19,7 @@ def get_wiki(search):
 #Store page data
 data = get_wiki(search)
 
-""" Samples of word cloud mask
+""" Samples of word cloud masks
 Marvel Studio mask: https://logos-download.com/wp-content/uploads/2018/07/Marvel_logo_red.png
 Mickey Mouse mask: https://i.pinimg.com/originals/22/92/c8/2292c8f0bf0c2e166c3c08e6adf2f014.png
 IT Chapter Two mask: https://cdn.getstickerpack.com/storage/uploads/sticker-pack/penny-wise/sticker_7.png?71e44a420b56adf1f8e34b49b2374bf0
