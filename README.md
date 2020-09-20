@@ -23,6 +23,9 @@ Here are some word clouds I generated:
 * Wikipedia search: Marvel Studio
 ![](images/marvelStudio.png)
 
+* Wikipedia search: LinkedIn
+![](images/linkedIn.png)
+
 * Wikipedia search: Dora the Explorer
 ![](images/dora.png)
 
